@@ -1,4 +1,6 @@
-# Análise de Evasão de Clientes (Churn) - TelecomX Brasil
+# Análise de Evasão de Clientes (Churn)
+
+# TelecomX Brasil
 
 ## [](https://opensource.org/licenses/MIT)
 
