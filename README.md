@@ -93,8 +93,8 @@ Se você tiver dúvidas, sugestões ou quiser discutir o projeto, sinta-se à vo
 
   * **Nome:** Luciano Azevedo
   * **Email:** lucianocomputador@gmail.com
-  * **LinkedIn:** [Perfil LinkedIn](https://www.linkedin.com/in/luciano-devops/)
-  * **GitHub:** [Perfil GitHub](https://github.com/lfa-systems)
+  * **LinkedIn:** [Meu Perfil LinkedIn](https://www.linkedin.com/in/luciano-devops/)
+  * **GitHub:** [Meu Perfil GitHub](https://github.com/lfa-systems)
 
 -----
 
