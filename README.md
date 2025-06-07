@@ -4,15 +4,12 @@
 
 Este repositório contém um notebook Jupyter (`TelecomX_BR.ipynb`) que realiza uma análise completa do problema de **evasão de clientes**, conhecido como **Churn**, na empresa do setor de telecomunicações. O objetivo principal é identificar os fatores que levam os clientes a cancelar seus serviços e propor estratégias de retenção baseadas em dados.
 
-\<br\>
 
 **Visão Geral do Projeto:**
 
-\<p align="center"\>
-\<img src="assets/chart_Qtd_Evadidos.png" alt="Gráfico de Evasão" width="700"\>
-\<br\>
-\<em\>Quantidade de clientes que deixaram a empresa.\</em\>
-\</p\>
+
+![Quantidade de clientes que deixaram a empresa.](assets/chart_Qtd_Evadidos.png)
+
 
 ## 🎯 Objetivo do Projeto
 
@@ -92,10 +89,10 @@ Este projeto de análise exploratória pode ser expandido com:
 
 Se você tiver dúvidas, sugestões ou quiser discutir o projeto, sinta-se à vontade para entrar em contato:
 
-  * **Nome da Empresa:** Luciano Azevedo
+  * **Nome:** Luciano Azevedo
   * **Email:** lucianocomputador@gmail.com
-  * **LinkedIn:** [\[Link para perfil do LinkedIn\]](https://www.linkedin.com/in/luciano-devops/)
-  * **GitHub:** [Link para perfil do GitHub](https://github.com/lfa-systems)
+  * **LinkedIn:** [Perfil LinkedIn](https://www.linkedin.com/in/luciano-devops/)
+  * **GitHub:** [Perfil GitHub](https://github.com/lfa-systems)
 
 -----
 
