@@ -65,11 +65,21 @@ A fase de Análise Exploratória de Dados (EDA) foi fundamental para entender a 
 
 **Distribuição do Churn:** Verificação da proporção de clientes que evadiram versus os que permaneceram, revelando a severidade do problema.
 
+![Quantidade de clientes que deixaram a empresa.](assets/chart_Qtd_Evadidos.png)
+
 **Características Demográficas:** Análise do impacto de fatores como gênero, idade (via "SeniorCitizen"), e status de parceiro e dependente na taxa de Churn.
 
 **Serviços Contratados:** Investigação de quais serviços (e.g., múltiplos serviços de linha, segurança online, backup online, proteção de dispositivo, suporte técnico, streaming de TV/filmes, contrato de internet) estão mais associados à evasão ou retenção. Clientes com contratos mais longos (dois anos) tendem a ter menor Churn.
 
+
+![Quantidade de clientes que deixaram a empresa.](assets/categorias.png)
+
+
 **Informações de Contrato e Pagamento:** Análise de como o tipo de contrato (mensal, anual, dois anos), o método de pagamento e o valor da fatura mensal ("MonthlyCharges") e total ("TotalCharges") influenciam o Churn. Clientes com contratos mensais geralmente apresentam maior taxa de Churn.
+
+![Quantidade de clientes que deixaram a empresa.](assets/contratoXservicos.png)
+
+![Quantidade de clientes que deixaram a empresa.](assets/mesContrato.png)
 
 **Visualizações-Chave:**
 
