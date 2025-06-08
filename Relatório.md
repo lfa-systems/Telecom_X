@@ -1,5 +1,5 @@
-# Relatório de Análise de Evasão de Clientes (Churn) - TelecomX Brasil
-
+# TelecomX Brasil
+# Relatório de Análise de Evasão de Clientes (Churn)
 
 ## 1. Introdução
 Este projeto apresenta uma análise aprofundada do problema de evasão de clientes, conhecido como "Churn", na empresa do setor de telecomunicação. O objetivo principal deste estudo é identificar os fatores que levam os clientes a cancelar seus serviços e, com base nesses insights (percepções), propor estratégias eficazes para a retenção de clientes. A evasão de clientes representa um desafio significativo para as empresas de telecomunicações, impactando diretamente a receita e a sustentabilidade do negócio. Compreender os motivos por trás do Churn é crucial para desenvolver ações proativas e personalizadas que visem aumentar a satisfação e a fidelidade do cliente.
